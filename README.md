@@ -1,1 +1,1 @@
-# Java-rslvn-5
+Dummy template
